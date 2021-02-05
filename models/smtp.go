@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/emersion/go-smtp"
-	"github.com/olivierlemoal/gomail"
+        "github.com/olivierlemoal/gomail"
 	"github.com/gophish/gophish/dialer"
 	log "github.com/gophish/gophish/logger"
 	"github.com/gophish/gophish/mailer"
